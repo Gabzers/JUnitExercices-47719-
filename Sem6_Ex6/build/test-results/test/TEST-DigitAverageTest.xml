@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DigitAverageTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-22T16:31:59" hostname="DESKTOP-QB0U41J" time="0.047">
+  <properties/>
+  <testcase name="testAverageOfNegativeNumber()" classname="DigitAverageTest" time="0.025"/>
+  <testcase name="testAverageOfPositiveNumber()" classname="DigitAverageTest" time="0.004"/>
+  <testcase name="testAverageOfSingleDigit()" classname="DigitAverageTest" time="0.003"/>
+  <testcase name="testAverageOfLargeNumber()" classname="DigitAverageTest" time="0.003"/>
+  <testcase name="testAverageOfZero()" classname="DigitAverageTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

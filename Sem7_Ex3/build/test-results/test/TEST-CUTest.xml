@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CUTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-22T17:00:44" hostname="DESKTOP-QB0U41J" time="0.14">
+  <properties/>
+  <testcase name="testAverageCU()" classname="CUTest" time="0.026"/>
+  <testcase name="[1] 1, 10.0" classname="CUTest" time="0.033"/>
+  <testcase name="[2] 2, 8.0" classname="CUTest" time="0.002"/>
+  <testcase name="[3] 3, 9.5" classname="CUTest" time="0.003"/>
+  <testcase name="testInsertAndSearchStudent()" classname="CUTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
